@@ -1,9 +1,10 @@
+
+import java.util.Scanner;
+import java.util.TreeSet;
 /**
  * Interfaz de texto
  *  
  */
-import java.util.Scanner;
-import java.util.TreeSet;
 
 public class IUConsola
 {
